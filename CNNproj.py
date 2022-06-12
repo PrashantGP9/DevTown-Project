@@ -1,5 +1,6 @@
 #OUTPUT ATTACHED IN REPO
 #execute in google colab 
+#LINK OF GOOGLE COLLAB IS SHARED IN Readme.md
 import tensorflow as tf 
 from tensorflow import keras
 import numpy as np
